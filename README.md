@@ -1,7 +1,7 @@
 # Chat System Application
 # Socket-based Client-Server Chat System
 
-This is a simple client-server chat system implemented using C++ sockets. The server and clients can exchange messages in a text-based chat format.
+This is a client-server chat system implemented using C++ sockets. The server and clients can exchange messages in a text-based chat format.
 
 ## Features
 
