@@ -59,13 +59,11 @@ Follow these steps to set up and run the Socket-based Client-Server Chat System:
 
 # Usage
 
-Here's how to use the Socket-based Client-Server Chat System:
+- The server listens on port 12345 by default, but you can modify the port in the code if needed.
 
-The server listens on port 12345 by default, but you can modify the port in the code if needed.
+- Clients connect to the server using the client program and can send and receive messages in real-time.
 
-Clients connect to the server using the client program and can send and receive messages in real-time.
+- Messages from the server and clients are displayed in the respective terminals.
 
-Messages from the server and clients are displayed in the respective terminals.
-
-To close the server or client, simply use Ctrl+C.
+- To close the server or client, simply use Ctrl+C.
 
