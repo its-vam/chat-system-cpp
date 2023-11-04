@@ -57,7 +57,7 @@ Follow these steps to set up and run the Socket-based Client-Server Chat System:
 
    You can now start chatting between clients and the server. Messages will be displayed in the respective terminals in real-time. 
 
-**Usage**
+# Usage
 
 Here's how to use the Socket-based Client-Server Chat System:
 
