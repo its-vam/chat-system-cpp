@@ -33,8 +33,17 @@ Follow these steps to set up and run the Socket-based Client-Server Chat System:
 
 Compile the server and client programs using the following commands:
 
- ```bash
-Copy code
-g++ -o server server.cpp -lpthread
-g++ -o client client.cpp
-   
+   ```bash
+   g++ -o server server.cpp -lpthread
+   g++ -o client client.cpp
+
+3. **Run the Server:**
+
+Start the server by running the following command:
+
+   ```bash
+
+   ./server
+
+
+
