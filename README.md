@@ -28,3 +28,13 @@ Follow these steps to set up and run the Socket-based Client-Server Chat System:
    ```bash
    git clone https://github.com/its-vam/socket-chat-system.git
    cd socket-chat-system
+   
+2. **Compile the Server and Client Code:**
+
+Compile the server and client programs using the following commands:
+
+ ```bash
+Copy code
+g++ -o server server.cpp -lpthread
+g++ -o client client.cpp
+   
