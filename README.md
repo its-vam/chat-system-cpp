@@ -67,3 +67,23 @@ Follow these steps to set up and run the Socket-based Client-Server Chat System:
 
 - To close the server or client, simply use Ctrl+C.
 
+## Features
+
+- Real-time chat communication between users.
+- User authentication for secure access. (Modification)
+- Private messaging for one-on-one conversations. (Modification)
+- End-to-end message encryption to ensure privacy. (Modification)
+
+## Modifications
+
+### User Authentication
+
+We have implemented user authentication to secure the chat application. Users must log in with their credentials to access the chat system, ensuring that only authorized users can participate in the conversations.
+
+### Private Messaging
+
+Enhancing user-to-user communication, we've added private messaging functionality. Users can send and receive private messages, enabling one-on-one conversations within the chat app.
+
+### Message Encryption
+
+To enhance security and privacy, all messages exchanged in the chat application are end-to-end encrypted. This ensures that messages are secure and can only be read by the intended recipient.
