@@ -45,7 +45,7 @@ Follow these steps to set up and run the Socket-based Client-Server Chat System:
 
    ./server
 
-4. **Run the Clients:
+4. **Run the Clients:**
 
    Open one or more client terminals and run the client program:
 
