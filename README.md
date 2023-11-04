@@ -74,6 +74,9 @@ Follow these steps to set up and run the Socket-based Client-Server Chat System:
 - Private messaging for one-on-one conversations. (Modification)
 - End-to-end message encryption to ensure privacy. (Modification)
 
+![Untitled design](https://github.com/its-vam/chat-system-cpp/assets/149049069/2fdf89d8-60ef-4d0b-9ae6-3cc333e5e331)
+
+
 ## Modifications
 
 ### User Authentication
