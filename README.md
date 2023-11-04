@@ -26,5 +26,5 @@ Follow these steps to set up and run the Socket-based Client-Server Chat System:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/socket-chat-system.git
+   git clone https://github.com/its-vam/socket-chat-system.git
    cd socket-chat-system
